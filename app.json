@@ -1,9 +1,9 @@
 {
-  "name": "VihangaBot MD V2",
+  "name": "Nimsarabot MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://telegra.ph/file/813ab01ad2063a14cd628.jpg",
+  "repository": "https://hb4alllink.herokuapp.com/1a9b0/file.jpg",
   "logo": "",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "VIHANGAMDV2", "multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot","multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
