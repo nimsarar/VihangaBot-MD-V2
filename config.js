@@ -17,21 +17,21 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '🤟' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94741538531' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.owner = ['94741538531','94741538531'] //මෙතන number එක.
+global.premium = ['94741538531','94741538531'] //මෙතන number එක.
+global.botname = 'NIMSARA SL BOT' //මෙතන නම.
+global.ownername = 'NIMSARA MD' //මෙතන නම.
+global.ownername = 'NIMSARA' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI' //මෙතන grouplink එක.
+global.packname = 'NIMSARA BOT INC' //මෙතන නම.
+global.cap = '*By NIMSARA MD*' //මෙතන නම.
+global.img = 'https://hb4alllink.herokuapp.com/1a9b0/file.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://youtube.com/channel/UCb4DFq-M36JmN7Qza5d0T7w' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -52,13 +52,13 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'NIMSARA MD BOT' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
-global.sp = '⭔' //මෙතන emoji එකක්.
+global.sp = '🇱🇰' //මෙතන emoji එකක්.
 global.mess = {
-    success: '*හරි*',
+    success: '*success*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
@@ -67,7 +67,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*ටිකක් ඉන්න ⏳*',
+    wait: '*please wait...*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
