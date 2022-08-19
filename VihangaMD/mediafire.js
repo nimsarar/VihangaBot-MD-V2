@@ -6,17 +6,17 @@
 //▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮nimsarar57@gmail.com
+//▮WHATSAPP US : +94 741 538 531
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UCb4DFq-M36JmN7Qza5d0T7w
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃ZimBotInc SOFTWARE INCLUDES 
+//┃ZimBotInc SOFTWARE NIMSARA
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING NIMSARA
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
